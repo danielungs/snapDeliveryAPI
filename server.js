@@ -10,7 +10,7 @@ var incidents = require("./incidents.js");
 var cabstand = require("./cabstand.js");
 
 var version = {
-    id: '0.1',
+    id: '1.0',
     name: 'hermes',
     lastupdate: Date.now()
 }
